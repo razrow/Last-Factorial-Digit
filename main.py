@@ -1,3 +1,4 @@
+#Given a non-negative number, N, return the last digit of the factorial of N.
 def last_factorial_digit(n):
   if n==1:
     return 1
